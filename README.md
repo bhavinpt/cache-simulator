@@ -1,5 +1,7 @@
 # Cache Simulator
 
+Try the notebook online: https://colab.research.google.com/drive/1jfFLlTpkukWWg2nxlwtzbl7yX5R6Hn9Q?usp=drive_link
+
 The simulator supports different configurations of associativity, cache size, and block size. These 3 are the major tuning parameters in cache design. Each policy is simulated for a full range of these 3 parameters to see how the tuning affects the cache performance. The simulator is implemented in Python, and the results are shown below.
 
 ![EE275 MP3 Progress drawio](https://github.com/bhavinpt/cache-simulator/assets/117598876/a6a4ff37-9a17-4521-b4da-48a3f1e63a47 "Python Code Architecture")
